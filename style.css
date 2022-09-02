@@ -80,8 +80,8 @@ h1 {
 }
 
 .countdown #minute::before{
-    content: " Minutes"
+    content: " Min"
 }
 .countdown #seconds::before{
-    content: "  Seconds"
+    content: "  Sec"
 }
